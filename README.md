@@ -1,0 +1,1 @@
+# stash-sense-data\n\nRecognition database releases for [stash-sense](https://github.com/carrotwaxr/stash-sense).\n\nReleases are published from [stash-sense-trainer](https://github.com/carrotwaxr/stash-sense-trainer) and consumed by the stash-sense sidecar.
