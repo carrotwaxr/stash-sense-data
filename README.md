@@ -21,8 +21,11 @@ The Stash Sense plugin can check for and install database updates automatically 
 | `performers.db` | SQLite database with performer metadata and stash-box IDs |
 | `face_facenet.voy` | FaceNet512 embedding index |
 | `face_arcface.voy` | ArcFace embedding index |
+| `face_adaface.voy` | AdaFace IR-101 embedding index |
+| `tattoo_embeddings.voy` | Tattoo embedding index |
 | `faces.json` | Face-to-performer mapping |
 | `performers.json` | Performer lookup data |
+| `tattoo_embeddings.json` | Tattoo-to-performer mapping |
 | `manifest.json` | Version, checksums, and build metadata |
 
 ## Documentation
